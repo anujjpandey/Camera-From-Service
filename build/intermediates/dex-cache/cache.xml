@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d3137a71200c47974c0454ae8ad272a09c533eb">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0-beta1_5f5bc2df0179340006aaf57e4ae56fef19f63774/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="97f82fd0c185bd2881a93646954f2429be4baa86">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0-beta1_0a33122e09d6d84fc0a113e3463e1d6b555c03a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3c0208faf42864e6695345e64d1b955070263819">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0-beta1_92bbd73c85d8993b2b03f1e9e67db83dd5a9d04b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f81eecb8d5e9e548f75f277830a94a9b37fbb987">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-beta1_14c2ecf8cb3c21ca1d558e32d5cc8be791a742d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="58b3e0d5f01e65dfc41d9f35c3420341545d9506">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_68ce145b1e90e2378593074764fdf04b47a5b3cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Tools/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-beta1/support-annotations-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="04705c19cdec60364bc04e2e928c274da1ba301b">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-beta1_4e095e2cbd87751e52dd2c8e9db187964e3c1ead/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-beta1/jars/libs/internal_impl-24.0.0-beta1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="23d564c059873f398dc5d967f56791a66472ce76">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-beta1_2108d30dd6b3c7abcf1872dfa197531309a41afb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2a8c1af5eee7c6cb5fb6f6ec62eb31ddb3c9de98">
+        <dex dex="/Users/wildcoder/Support/Book World/WildCoderCameraService/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ed21d19922dd093fc7ad5aee4a1300acab07f6e9/classes.dex" />
+    </item>
+
+</items>
